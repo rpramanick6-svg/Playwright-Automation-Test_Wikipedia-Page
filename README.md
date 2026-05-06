@@ -1,5 +1,6 @@
 # Playwright-Automation-Test_Wikipedia-Page
 
+
 This project is a Playwright automation test built to interact with the Wikipedia homepage. It collects the links available in the footer section, clicks a selected footer link, waits for the next page to load, and works with the page text for verification.
 
 ## Features
